@@ -16,4 +16,6 @@ This is a deplyoment part of project description !!!
 
 ## How to contribute
 
+Please fork this repo and then issue pull
+
 Copyright @2018
