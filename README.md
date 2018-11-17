@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showuse of git commands
+Adding a line for rebasing example
 
 ## Introduction
 
