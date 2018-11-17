@@ -15,3 +15,5 @@ This is supposed to be some purpose text of this example web project
 This is a deplyoment part of project description !!!
 
 ## How to contribute
+
+Copyright @2018
