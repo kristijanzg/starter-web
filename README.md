@@ -8,6 +8,10 @@ This example is to show different parts of git commands
 
 ## Purpose
 
+This is supposed to be some purpose text of this example web project
+
 ## Deployment
+
+This is a deplyoment part of project description !!!
 
 ## How to contribute
